@@ -16,9 +16,10 @@ You can incorporate additional details as follows:
 
 #### **STUDENT GRADE CALCULATOR**
 
-Input: Take marks obtained (out of 100) in each subject. 
-Calculate Total Marks: Sum up the marks obtained in all subjects. Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage. 
-Grade Calculation: Assign grades based on the average percentage achieved. 
+Input: Take marks obtained (out of 100) in each subject.
+Calculate Total Marks: Sum up the marks obtained in all subjects.
+Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.
+Grade Calculation: Assign grades based on the average percentage achieved.
 Display Results: Show the total marks, average percentage, and the corresponding grade to the user.
 
 
@@ -26,7 +27,7 @@ Display Results: Show the total marks, average percentage, and the corresponding
 
 #### **ATM INTERFACE**
 
-1 Create a class to represent the ATM machine.
+1. Create a class to represent the ATM machine.
 2. Design the user interface for the ATM, including options such as withdrawing, depositing, and checking the balance.
 3. Implement methods for each option, such as withdraw(amount), deposit(amount), and checkBalance().
 4. Create a class to represent the user's bank account, which stores the account balance.
